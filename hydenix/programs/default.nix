@@ -8,7 +8,7 @@
   ];
 
   programs = {
-    home-manager.enable = true;
+    home-manager.enable = false;
     neovim = {
       enable = true;
       defaultEditor = true;
